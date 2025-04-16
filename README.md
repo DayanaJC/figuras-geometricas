@@ -31,7 +31,7 @@ Se aplicaron las siguientes correcciones al código original para cumplir con la
 
 ##  Integrante
 
-| Apellidos | Nombres     |
+| Apellidos | Nombre     |
 |-----|--------------------------|
 | Javier Curi  | Dayana  |
 
